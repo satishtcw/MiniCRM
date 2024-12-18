@@ -78,7 +78,7 @@ Run the Laravel development server:
 ```bash
 php artisan serve
 ```
-The application will be accessible at [http://localhost:8000](http://localhost:8000).
+The application will be accessible at [http://localhost:8000](http://localhost:8000) or [http://127.0.0.1:8000](http://127.0.0.1:8000).
 
 ### 12. Test APIs with Postman
 Import the Postman collection and environment files to test the APIs:
